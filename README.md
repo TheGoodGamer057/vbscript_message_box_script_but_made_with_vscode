@@ -1,0 +1,2 @@
+# vbscript_message_box_script_but_made_with_vscode
+yes i literally
